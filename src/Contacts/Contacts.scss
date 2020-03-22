@@ -1,0 +1,22 @@
+.search-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+//     position: fixed;
+//     margin-top: 5%;
+//    margin-left: -10%;
+    .form-control{
+        width:600px;
+    }
+}
+.card-wrapper{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.add-new-contact{
+  //  margin-top: 5%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
